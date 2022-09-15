@@ -1,0 +1,34 @@
+h1{
+    color: black;
+    background-color: greenyellow;
+}
+
+h2,h3,h4,h5,h6{
+    color: greenyellow;
+}
+
+body{
+    background-color: black;
+    background-image: url(bg-image.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a.menu{
+    color: black;
+}
+
+ul.menu{
+    background-color: greenyellow;
+}
+
+a{
+    color: aqua;
+}
+
+/* This * symbol can used as an universal selector */
+*{
+    margin-left: 1%;
+}
